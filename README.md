@@ -1,2 +1,3 @@
 # graphic-automata
-generational image aesthetics
+generational image aesthetics app built with Processing 3
+
